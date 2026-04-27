@@ -1,0 +1,9 @@
+[submodule "laboratories/static-checking"]
+	path = laboratories/static-checking
+	url = https://github.com/ndleah/python-mini-project.git
+[submodule "laboratories/git-github"]
+	path = laboratories/git-github
+	url = https://github.com/tsc-cs-pub-ro/git-lab.git
+[submodule "laboratories/static&dynamic-checking/python-mini-project"]
+	path = laboratories/static&dynamic-checking/python-mini-project
+	url = https://github.com/tsc-cs-pub-ro/python-mini-project.git
